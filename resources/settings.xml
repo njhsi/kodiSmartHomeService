@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30000">
+        <setting label="30001" type="ipaddress" id="tvIpAddress"    default="" />
+        <setting label="30002" type="text"      id="tvMacAddress"   default="" />
+        <setting label="30019" type="select"    id="tvBrand"        lvalues="30008|30020" />
+        <setting label="30003" type="select"    id="tvInput"        lvalues="30008|30004|30005|30006|30007" />
+        <setting label="30009" type="number"    id="timeUntilSleep" default="5" />
+        <setting label="30010" type="text"      id="tvPin"          default="0000" />
+    </category>
+</settings>

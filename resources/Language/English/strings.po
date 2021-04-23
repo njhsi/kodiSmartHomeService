@@ -1,0 +1,97 @@
+# Kodi Smart TV Service language file
+# Addon Name: Kodi Smart TV Service
+# Addon id: service.smarttvservice
+# Addon Provider: casenjo
+msgid ""
+msgstr ""
+"Project-Id-Version: Bravia TV Wakeup\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+
+msgctxt "#30000"
+msgid "TV Settings"
+msgstr "TV Settings"
+
+msgctxt "#30001"
+msgid "TV IP Address"
+msgstr "TV IP Address"
+
+msgctxt "#30002"
+msgid "TV Mac Address"
+msgstr "TV Mac Address"
+
+msgctxt "#30003"
+msgid "TV Input"
+msgstr "TV Input"
+
+msgctxt "#30004"
+msgid "HDMI 1"
+msgstr "HDMI 1"
+
+msgctxt "#30005"
+msgid "HDMI 2"
+msgstr "HDMI 2"
+
+msgctxt "#30006"
+msgid "HDMI 3"
+msgstr "HDMI 3"
+
+msgctxt "#30007"
+msgid "HDMI 4"
+msgstr "HDMI 4"
+
+msgctxt "#30008"
+msgid ""
+msgstr ""
+
+msgctxt "#30009"
+msgid "Time to wait until TV will sleep"
+msgstr "Time to wait until TV will sleep"
+
+msgctxt "#30010"
+msgid "TV PIN"
+msgstr "TV PIN"
+
+msgctxt "#30011"
+msgid "Plugin not connected to the TV. Do you want to connect to it?"
+msgstr "Plugin not connected to the TV. Do you want to connect to it?"
+
+msgctxt "#30012"
+msgid "If yes, be aware that the dialog on the TV might be large and will not let you see the interface to input the PIN."
+msgstr "If yes, be aware that the dialog on the TV might be large and will not let you see the interface to input the PIN."
+
+msgctxt "#30013"
+msgid "You can use your keyboard to type the code and then press Enter :)"
+msgstr "You can use your keyboard to type the code and then press Enter :)"
+
+msgctxt "#30014"
+msgid "Enter PIN from TV"
+msgstr "Enter PIN from TV"
+
+msgctxt "#30015"
+msgid "PIN incorrect, unable to connect"
+msgstr "PIN incorrect, unable to connect"
+
+msgctxt "#30016"
+msgid "TV IP address not configured"
+msgstr "TV IP address not configured"
+
+msgctxt "#30017"
+msgid "TV MAC address not configured"
+msgstr "TV MAC address not configured"
+
+msgctxt "#30018"
+msgid "TV Input must be selected"
+msgstr "TV Input must be selected"
+
+msgctxt "#30019"
+msgid "TV Brand"
+msgstr "TV Brand"
+
+msgctxt "#30020"
+msgid "Sony"
+msgstr "Sony"

@@ -12,6 +12,10 @@ class KodiMonitor(xbmc.Monitor):
         self.timeScreensaverActivated = 0
         self.TIME_TO_TV_SLEEP = (60 * int(utils.getSetting('timeUntilSleep')))  # Default setting is 5 minutes
 
+    def onNotification(self, sender, method, data):
+        xbmc.Monitor.onNotification(self, sender, method, data)
+        xbmc.log('%s: Notification %s from %s, params: %s' % (ADDONID, method, sender, str(data)))
+
     def onScreensaverDeactivated(self):
         utils.log("Screensaver deactivated")
         self.tvConnection.wakeUpTv()
